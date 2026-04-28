@@ -171,7 +171,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-7. The app will open in your browser at `http://localhost:8501`
+7. The app will open in your browser at `https://ticketsense.streamlit.app/
 
 ---
 
